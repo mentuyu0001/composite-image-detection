@@ -1,0 +1,14 @@
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.pth
+*.pkl
+*.h5
+*.ckpt
+*.onnx
+__pycache__/
+*.pyc
